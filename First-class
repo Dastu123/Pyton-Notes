@@ -1,3 +1,19 @@
 Java,C is statistically typed programming language, Every time we declare a variable we have to specify the datatype
 Python is dynamic typed programing language we dont need to define the data types, while passing value to the variable python,
 Dynamically assigne the datatype      
+
+reserved keywords 33
+-----------------
+True, False, None
+and, or, not, is, if, else, elif, while, for, break, continue, return, in yield
+try, except, finally raise, assert, import, from, as, class, def, pass, global, nonlocal
+lambda, del, with
+
+notes.
+=====
+1. all reserved words contain alphabet symbols.
+2. except first 3 rest all should be lower case letters.
+
+Datatypes.
+=========
+int, float, complex, bool, str, bytes, betearray, range, list, tuple, set, frozenset, dict, None
