@@ -17,3 +17,6 @@ notes.
 Datatypes.
 =========
 int, float, complex, bool, str, bytes, betearray, range, list, tuple, set, frozenset, dict, None
+Every thing in python is an object.
+All the fundamental datatypes int, float, complex, bool, str are immutable
+
