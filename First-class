@@ -25,3 +25,17 @@ A=10
 B=10
 C=10
 here 3 reference variables are pointing to the 10 object and if C can change the object then A and B can be impacted  
+hence int, bool, str are immutable.
+complex and folat every time a new object is created.
+---------------------------------------------------
+bytes and bytearry
+byte : to represent same type of data elements similarly arry
+B=[10,20,30] immutable
+bytearry
+B=[30,40,50] is mutable
+
+list data type
+insersion order is preserved and duplicate values are allowed and they can be different type of objects.
+
+
+
