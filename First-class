@@ -36,6 +36,9 @@ B=[30,40,50] is mutable
 
 list data type
 insersion order is preserved and duplicate values are allowed and they can be different type of objects.
+growable
+values should be enclosed with []
+
 
 
 
