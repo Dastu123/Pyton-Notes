@@ -19,4 +19,9 @@ Datatypes.
 int, float, complex, bool, str, bytes, betearray, range, list, tuple, set, frozenset, dict, None
 Every thing in python is an object.
 All the fundamental datatypes int, float, complex, bool, str are immutable
-
+Once an object is created it cannot be modified and becasue multiple reference variables will point to the same object
+example 
+A=10
+B=10
+C=10
+here 3 reference variables are pointing to the 10 object and if C can change the object then A and B can be impacted  
