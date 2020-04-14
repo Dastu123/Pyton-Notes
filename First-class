@@ -36,8 +36,13 @@ B=[30,40,50] is mutable
 
 list data type
 insersion order is preserved and duplicate values are allowed and they can be different type of objects.
-growable
+growable, and mutable
 values should be enclosed with []
+we can access the list values with its index with  +ve or -ve. +ve means left to right -ve means right to left.
+
+tuple:
+-------
+immutable : t=(1,2,3,4,5)
 
 
 
